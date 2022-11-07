@@ -1,11 +1,69 @@
 /* Your CSS code goes here */
-  h1 {
-    color: whitesmoke;
-    text-decoration: underline;
-    background-color: #C8A2C8; 
-    }
-    h3 {
-      font-size: 50px;
-      font-weight: bold;
-      color: grey;
-    }
+h1 {
+  color: whitesmoke;
+  text-decoration: underline;
+  background-color: #C8A2C8;
+  position: absolute;
+  left: 50%;
+  }
+
+
+h3 {
+  font-size: 50px;
+  font-weight: bold;
+  color: grey;
+}
+
+td {
+  width: 200px;
+}
+
+.dp {
+  position: absolute;
+  left: 3%;
+  top: 13%;
+}
+
+.socials-head { 
+  position: absolute;
+  right: 27%;
+  top: 5%;
+}
+
+.socials { 
+  position: absolute;
+  right: 41%;
+  top: 23%;
+}
+
+.p1 {
+  position: absolute;
+  right: 4%;
+  left: 52%;
+  top: 40%;
+}
+
+.p2 {
+  position: absolute;
+  right: 3%;
+  left: 3%;
+  top: 82%;
+}
+
+.sheeph {
+  position: absolute;
+  right: 7%;
+  top: 64%;
+}
+
+.sheep {
+  position: absolute;
+  right: 16%;
+  top: 67%;
+}
+
+.tfav {
+  position: absolute;
+  top: 66%;
+  left: 3%;
+}
